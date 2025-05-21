@@ -1,0 +1,13 @@
+/TireSorting-Ultimate
+├── AppConfig.json
+├── README.md
+├── /src
+│   ├── PlcManager.vb
+│   ├── GateApp.vb
+│   ├── ForceApp.vb
+│   ├── Logger.vb
+│   ├── Models.vb
+│   └── DashboardForm.vb
+├── /logs
+├── /installer
+└── .gitignore
